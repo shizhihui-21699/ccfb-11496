@@ -1,0 +1,2 @@
+_abc_ abc abc1 1abc .abc. abc	
+ABC fullword boundary test
